@@ -34,10 +34,10 @@ The repository is structured as follows:
 └── README.md
 
 
-Each problem has its own directory, named `ProblemN`, where `N` represents the problem number. Inside each problem directory, you will find the following files:
+Each problem has its own directory, named `Problem_Question`. Inside each problem directory, you will find the following files:
 
-- `Solution.cpp`: The C++ implementation of the problem solution.
-- `README.md`: A detailed explanation of the problem and solution approach, along with analysis of time and space complexity.
+- `Problem_question.cpp`: The C++ implementation of the problem solution.
+- `README.md`: The Problem along with it's difficulty level(easy,medium,hard) along with example test cases and constraints.
 
 ## How to Use
 
@@ -46,6 +46,6 @@ To use the solutions provided in this repository, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/leetcode-solutions-cpp.git
+git clone https://github.com/your-username/LeetcodeProblem_Solutions.git````bash
 
 
