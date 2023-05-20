@@ -47,7 +47,7 @@ To use the solutions provided in this repository, follow these steps:
 
 ```bash
 git clone https://github.com/your-username/LeetcodeProblem_Solutions.git
-
+````
 #
 2.Navigate to the desired problem directory:
 
@@ -68,14 +68,17 @@ Contributions to this repository are always welcome. If you would like to contri
 2.Create a new branch for your feature or bug fix:
 ```bash
 git checkout -b feature/your-feature-name
+````
 
 3.Make your modifications and commit your changes:
 ```bash
 git commit -m "Add your commit message here"
+````
 
 4.Push your branch to your forked repository:
 ```bash
 git push origin feature/your-feature-name
+````
 
 5.Open a pull request to the main repository, explaining the changes you made.
 Please ensure that your contributions adhere to the repository's coding style and include relevant test cases and updated documentation where necessary.
