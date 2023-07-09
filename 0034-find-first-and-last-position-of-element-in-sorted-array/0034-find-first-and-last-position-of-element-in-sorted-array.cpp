@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
         int start=0,end=nums.size()-1;
+        // vector <int> res(2,-1); isse kya hoga jab first and last occurnce found hogi toh vo thirst and fourth position par push ho jaegi
         vector <int> res;
         int fo=-1,lo=-1;
         if(nums.size()==1 && nums[0]==target)
@@ -12,8 +13,8 @@ public:
         }
         else if(nums.size()==1 && nums[0]!=target)
         {
-            res.push_back(-1);
-            res.push_back(-1);
+            res.push_back(fo);
+            res.push_back(lo);
             return res;
         }
         else
