@@ -1,10 +1,10 @@
-# LeetcodeProblem_Solutions
-Here is the Solution of the questions solved by me on Leetcode In C++. 
-# LeetCode Solutions in C++
+# Leetcode_GFG_Problem_Solutions
+Here is the Solution of the questions solved by me on various coding platform In C++. 
+# Solutions in C++
 
-This repository contains my solutions to various LeetCode problems implemented in C++. Each solution is accompanied by some comments that explains the logic(English and Hinglish)
+This repository contains my solutions to various LeetCode/GFG problems implemented in C++. Each solution is accompanied by some comments that explains the logic(English and Hinglish)
 
-Feel free to browse through the solutions and use them as a reference for your own problem-solving journey on LeetCode.
+Feel free to browse through the solutions and use them as a reference for your own problem-solving journey on various coding patforms.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ Feel free to browse through the solutions and use them as a reference for your o
 
 ## Introduction
 
-LeetCode is a platform for technical interview preparation, featuring a vast collection of coding problems from different domains. The solutions provided in this repository are written in C++.
+LeetCode/GFG is a platform for technical interview preparation, featuring a vast collection of coding problems from different domains. The solutions provided in this repository are written in C++.
 
 ## Repository Structure
 
