@@ -3,6 +3,10 @@ public:
     int findPeakElement(vector<int>& nums) {
         if(nums.size()==1)
             return 0;
+        else if(nums.size()==2 && nums[0]>nums[1])
+            return 0;
+        else if(nums.size()==2)
+            return 1;
         int start=0,end=nums.size()-1;
         while(start<=end)
         {
