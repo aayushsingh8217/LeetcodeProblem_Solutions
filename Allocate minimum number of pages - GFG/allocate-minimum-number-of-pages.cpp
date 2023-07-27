@@ -54,9 +54,9 @@ class Solution
                 sum=A[i];
             }
             
-        }
         if(student>M)
             return false;
+        }
         return true;
     }
 };
