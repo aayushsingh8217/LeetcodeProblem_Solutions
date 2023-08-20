@@ -12,9 +12,9 @@ public:
     }
     
     vector<vector<int>> groupGraph(m + n);
-    vector<int> groupIndegree(m + n, 0);
+    vector<int> groupIndegree(m + n);
     vector<vector<int>> itemGraph(n);
-    vector<int> itemIndegree(n, 0);
+    vector<int> itemIndegree(n);
     
     // Build the group and item graphs.
     for (int i = 0; i < n; ++i) {
