@@ -26,27 +26,51 @@ class Solution
     //-------------------------------------------
     
     //Memoise the recursion
-    vector<vector<int>> dp(n+1,vector<int> (w+1,-1));
-    return func(w,wt,val,n,dp);
+    // vector<vector<int>> dp(n+1,vector<int> (w+1,-1));
+    // return func(w,wt,val,n,dp);
     //-----------------------------------
     
+    //Bottom Up approach
+    int dp[n+1][w+1];
+    for(int i=0;i<n+1;i++)
+    {
+        for(int j=0;j<w+1;j++)
+        {
+            if(i==0 || j==0)
+            dp[i][j]=0;
+        }
     }
-     int func(int w, int wt[],int val[],int n,vector <vector<int>> &dp)
-     {
-         if(n<=0 || w<=0)
-         return 0;
+    
+    for(int i=1;i<n+1;i++)
+    {
+        for(int j=1;j<w+1;j++)
+        {
+            if(wt[i-1]<=j)
+            dp[i][j]=max(val[i-1]+dp[i-1][j-wt[i-1]],dp[i-1][j]);
+            else if(wt[i-1]>j)
+            dp[i][j]=dp[i-1][j];
+        }
+    }
+    return dp[n][w];
+    
+    
+    }
+    //  int func(int w, int wt[],int val[],int n,vector <vector<int>> &dp)
+    //  {
+    //      if(n<=0 || w<=0)
+    //      return 0;
          
-         if(dp[n][w]!=-1)
-         return dp[n][w];
+    //      if(dp[n][w]!=-1)
+    //      return dp[n][w];
          
-         if(wt[n-1]<=w)
-         {
-             return dp[n][w]=max(val[n-1]+func(w-wt[n-1],wt,val,n-1,dp),func(w,wt,val,n-1,dp));
-         }
-         else if(wt[n-1]>w)
-         return dp[n][w]=func(w,wt,val,n-1,dp);
+    //      if(wt[n-1]<=w)
+    //      {
+    //          return dp[n][w]=max(val[n-1]+func(w-wt[n-1],wt,val,n-1,dp),func(w,wt,val,n-1,dp));
+    //      }
+    //      else if(wt[n-1]>w)
+    //      return dp[n][w]=func(w,wt,val,n-1,dp);
          
-     }
+    //  }
     
 };
 
