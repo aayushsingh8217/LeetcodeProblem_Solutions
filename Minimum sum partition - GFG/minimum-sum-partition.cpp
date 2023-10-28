@@ -8,38 +8,36 @@ class Solution{
   public:
 	int minDifference(int arr[], int n)  { 
 	    // Your code goes here
-	    int sum=0;
-	    for(int i=0;i<n;i++)
-	    {
-	      sum+=arr[i];  
-	    }
-	    vector<vector<bool>> dp(n+1,vector<bool> (sum/2+1,false));
-	    vector <int> v;
-	    for(int i=0;i<=n;i++)
-	    {
-	        dp[i][0]=true;
-	    }
-	      for(int i=1;i<=n;i++)
-	    {
-	        for(int j=1;j<=sum/2;j++)
-	        {
-	            if(arr[i-1]<=j)
-	            dp[i][j]=dp[i-1][j] || dp[i-1][j-arr[i-1]];
-	            else
-	            dp[i][j]=dp[i-1][j];
-	        }
-	    }
-int largestSubsetSum = -1;
-        for (int j = sum / 2; j >= 0; j--) {
-            if (dp[n][j]) {
-                largestSubsetSum = j;
-                break;
+int sum = 0;
+        for (int i = 0; i < n; i++) {
+            sum += arr[i];
+        }
+
+        vector<vector<bool>> dp(n + 1, vector<bool>(sum + 1, false));
+
+        for (int i = 0; i <= n; i++) {
+            dp[i][0] = true;
+        }
+
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= sum; j++) {
+                if (arr[i - 1] <= j) {
+                    dp[i][j] = dp[i - 1][j] || dp[i - 1][j - arr[i - 1]];
+                } else {
+                    dp[i][j] = dp[i - 1][j];
+                }
             }
         }
 
-        int minimumDifference = sum - 2 * largestSubsetSum;
+      
 
-        return abs(minimumDifference);
+        int mn = INT_MAX;
+        for (int i = 0; i <= sum/2; i++) {
+            if (dp[n][i]) {
+                mn = min(mn, sum - 2 * i);
+            }
+        }
+        return mn;
 	} 
 };
 
