@@ -1,8 +1,7 @@
 class Solution {
 public:
-//Facebook,Amazon,LinkedIN,Lyft,Microsoft,Airbnb,Apple,Adobe,Snapchat,Oracle
     string minWindow(string s, string t) {
-        unordered_map<char, int> mp;
+unordered_map<char, int> mp;
         string res = "";
         int size = INT_MAX;
         int i = 0, j = 0;
