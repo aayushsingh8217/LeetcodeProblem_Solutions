@@ -9,7 +9,7 @@ public:
             return;
         }
 
-        findBeautifulSubsets(nums, index + 1, elementCount);
+        findBeautifulSubsets(nums, index+1 , elementCount);
 
         if (!elementCount[nums[index] - difference] && !elementCount[nums[index] + difference]) {
             elementCount[nums[index]]++;
