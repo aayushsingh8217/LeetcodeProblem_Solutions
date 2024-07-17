@@ -88,3 +88,27 @@ This repository is licensed under the MIT License. Feel free to use the code in 
 
 
 Save the content to a file with the extension `.md` (e.g., `README.md`) to create the Markdown file.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+## Hash Table
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+## Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+## Depth-First Search
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+## Binary Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+<!---LeetCode Topics End-->
