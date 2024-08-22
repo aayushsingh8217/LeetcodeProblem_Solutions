@@ -135,4 +135,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0257-binary-tree-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
