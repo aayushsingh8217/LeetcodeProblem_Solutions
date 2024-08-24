@@ -104,6 +104,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -112,6 +113,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -120,6 +122,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0112-path-sum) |
 | [0257-binary-tree-paths](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -149,5 +152,6 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0112-path-sum) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 <!---LeetCode Topics End-->
