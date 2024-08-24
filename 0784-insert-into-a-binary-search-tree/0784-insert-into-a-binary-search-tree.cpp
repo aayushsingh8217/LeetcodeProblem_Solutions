@@ -12,20 +12,49 @@
 class Solution {
 public:
     TreeNode* insertIntoBST(TreeNode* root, int val) {
-        if(root==NULL)
-        {
-            TreeNode* ptr=new TreeNode(val);
-            return ptr;
-        }
+        // ---------------RECURSIVE CODE-------------------------
+        // if(root==NULL)
+        // {
+        //     TreeNode* ptr=new TreeNode(val);
+        //     return ptr;
+        // }
 
-        if(root->val > val)
+        // if(root->val > val)
+        // {
+        //     root->left=insertIntoBST(root->left,val);
+        // }
+        // else
+        // {
+        //     root->right= insertIntoBST(root->right,val);
+        // }
+        // return root;
+
+        //------------------Iterative CODE-----------------------
+        TreeNode* cur,*prev;
+        prev=cur=root;
+
+        TreeNode *node=new TreeNode(val);
+
+        if(!root)
+        return node;
+
+        while(cur)
         {
-            root->left=insertIntoBST(root->left,val);
+            if(val> cur->val)
+            {
+                prev=cur;
+                cur=cur->right;
+            }
+            else if(val< cur->val)
+            {
+                prev=cur;
+                cur=cur->left;
+            }
         }
+        if(val<prev->val)
+        prev->left=node;
         else
-        {
-            root->right= insertIntoBST(root->right,val);
-        }
+        prev->right=node;
         return root;
     }
 };
