@@ -96,6 +96,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -150,6 +152,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Math
@@ -195,6 +198,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0450-delete-node-in-a-bst](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Greedy
 |  |
@@ -204,4 +208,12 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
