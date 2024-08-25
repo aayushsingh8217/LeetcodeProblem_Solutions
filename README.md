@@ -96,6 +96,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 ## Hash Table
@@ -158,6 +159,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
@@ -216,4 +218,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
