@@ -94,6 +94,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
@@ -102,6 +103,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
