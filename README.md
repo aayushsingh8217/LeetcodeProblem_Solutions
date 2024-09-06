@@ -101,6 +101,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
