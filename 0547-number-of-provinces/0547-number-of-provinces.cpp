@@ -51,7 +51,7 @@ void solvebfs(unordered_map<int,vector<int>>& mp,vector<bool>& vis,int u)
         queue <int> q;
 
         q.push(u);
-
+vis[u]=true;
         while(!q.empty())
         {
             int curr=q.front();
