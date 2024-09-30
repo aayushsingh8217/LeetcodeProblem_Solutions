@@ -20,26 +20,51 @@ public:
         for(int i=0;i<n;i++)
         {
             if(!vis[i]){
-            solvedfs(mp,vis,i);
+            // solvedfs(mp,vis,i);
+            solvebfs(mp,vis,i);
             flag++; 
             }
         }
 
         return flag;
+
+      
+
     }
 
-    void solvedfs(unordered_map<int,vector<int>>& mp,vector<bool>& vis,int u)
-    {
-        vis[u]=true;
+    // void solvedfs(unordered_map<int,vector<int>>& mp,vector<bool>& vis,int u)
+    // {
+    //     vis[u]=true;
 
-        for(auto &v:mp[u])
-        {
-            if(vis[v]==false )
-            solvedfs(mp,vis,v);
+    //     for(auto &v:mp[u])
+    //     {
+    //         if(vis[v]==false )
+    //         solvedfs(mp,vis,v);
 
             
-        }
+    //     }
 
         
-    }
+    // }
+void solvebfs(unordered_map<int,vector<int>>& mp,vector<bool>& vis,int u)
+     {
+        queue <int> q;
+
+        q.push(u);
+
+        while(!q.empty())
+        {
+            int curr=q.front();
+            q.pop();
+
+            for(auto& v:mp[curr])
+            {
+                if (!vis[v]) { // If neighbor hasn't been visited yet
+                    vis[v] = true; // Mark as visited
+                    q.push(v); 
+            }
+        }
+     }
+     }
+    
 };
