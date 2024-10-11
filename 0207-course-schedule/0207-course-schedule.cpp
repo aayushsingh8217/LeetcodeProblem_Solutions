@@ -1,55 +1,37 @@
 class Solution {
 public:
-    bool canFinish(int V, vector<vector<int>>& prerequisites) {
-        unordered_map<int,vector<int>> mp;
-        vector<int> indg(V,0);
-       for (const auto& pre : prerequisites) {
-            int course = pre[0];  // Course that has a prerequisite
-            int prerequisite = pre[1];  // Prerequisite course
-            mp[prerequisite].push_back(course);  // There is an edge from prerequisite to course
-            indg[course]++;  // Increment the in-degree of the course
-        }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        unordered_map<int,vector<int>> adj;
+        vector <bool> vis(numCourses,false);
+        vector<bool> inr(numCourses,false);
 
-        
-
-        return toposort(mp,indg,V);
-
-    }
-
-    bool toposort( unordered_map<int,vector<int>>& mp, vector<int>& indg,int n)
-    {
-        queue <int> q;
-        int flag=0;
-
-        for(int i=0;i<n;i++)
+        for(auto& it:prerequisites)
         {
-            if(indg[i]==0)
-            {
-                q.push(i);
-                flag++;
-            }
-        }
+            int a =it[0];
+            int b=it[1];
+            adj[b].push_back(a);
 
-        while(!q.empty())
+        }
+        for(int i=0;i<numCourses;i++)
         {
-            int u=q.front();
-            q.pop();
-
-            for(auto & v: mp[u])
-            {
-                indg[v]--;
-
-                if(indg[v]==0)
-                {
-                    flag++;
-                    q.push(v);
-                }
-            }
+            if(!vis[i] && solvedfs(adj,i,vis,inr))
+            return false;
         }
-
-        if(flag==n)
         return true;
-        else
+    }
+    bool solvedfs(unordered_map<int,vector<int>> &adj,int u, vector <bool> &vis, vector <bool> &inr)
+    {
+        vis[u]=true;
+        inr[u]=true;
+
+        for(auto &v:adj[u])
+        {
+            if(!vis[v] && solvedfs(adj,v,vis,inr))
+            return true;
+            else if(inr[v]==true)
+            return true;
+        }
+        inr[u]=false;
         return false;
     }
 };
