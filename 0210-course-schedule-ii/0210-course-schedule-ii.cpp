@@ -1,57 +1,52 @@
 class Solution {
 public:
+bool hc;
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        unordered_map<int,vector<int>> mp;
-        vector<int> indg(numCourses,0);
-
-        for(auto & it:prerequisites )
+        unordered_map<int,vector<int>> adj;
+        vector<int> vis(numCourses,false);
+        vector<int> inr(numCourses,false);
+        stack <int> st;
+        for(auto& v:prerequisites)
         {
-            int a=it[0];
-            int b=it[1];
-
-            mp[b].push_back(a);
-            indg[a]++;
-
+            int a=v[0];
+            int b=v[1];
+            adj[b].push_back(a);
+        }
+        for(int i=0;i<numCourses;i++)
+        {
+            if(!vis[i])
+            solvedfs(adj,i,vis,inr,st);
         }
 
-        return toposort(mp,indg,numCourses);
+        if(hc==true)
+        return {};
+
+        vector<int> res;
+
+        while(!st.empty())
+        {
+            res.push_back(st.top());
+            st.pop();
+        }
+        return res;
 
     }
-
-    vector<int> toposort(unordered_map<int,vector<int>>& mp,vector<int>& indg,int n)
+    void solvedfs(unordered_map<int,vector<int>>& adj,int u,vector<int>& vis,vector<int>& inr,stack <int> & st)
     {
-        queue <int> q;
-        vector<int> res;
-        int flag=0;
-        for(int i=0;i<n;i++)
-        {
-            if(indg[i]==0)
-            {
-                res.push_back(i);
-                q.push(i);
-                flag++;
+        vis[u]=true;
+        inr[u]=true;
 
-            }
-        }
-        while(!q.empty())
+        for(auto &v:adj[u])
         {
-            int u=q.front();
-            q.pop();
-
-            for(auto &v:mp[u])
+            if(inr[v]==true)
             {
-                indg[v]--;
-                if(indg[v]==0)
-                {
-                    res.push_back(v);
-                    flag++;
-                    q.push(v);
-                }
+                hc=true;
+                return;
             }
+            if(!vis[v])
+            solvedfs(adj,v,vis,inr,st);
         }
-        if(flag==n)
-        return res;
-        else 
-        return {};
+        st.push(u);
+        inr[u]=false;
     }
 };
