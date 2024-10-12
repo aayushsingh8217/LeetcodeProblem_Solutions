@@ -145,6 +145,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0543-diameter-of-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
@@ -199,6 +200,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0210-course-schedule-ii](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -260,12 +262,14 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
