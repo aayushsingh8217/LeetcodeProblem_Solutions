@@ -287,4 +287,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0207-course-schedule](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0210-course-schedule-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
