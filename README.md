@@ -290,5 +290,6 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
