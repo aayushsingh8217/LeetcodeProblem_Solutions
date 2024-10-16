@@ -146,6 +146,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0543-diameter-of-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -204,6 +205,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0210-course-schedule-ii](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -256,6 +258,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0744-network-delay-time](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0744-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -278,6 +281,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0207-course-schedule](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -300,4 +304,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [1801-average-time-of-process-per-machine](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
