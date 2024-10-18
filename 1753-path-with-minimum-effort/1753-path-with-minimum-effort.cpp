@@ -25,6 +25,9 @@ vector<vector<int>> direc ={{0,1},{1,0},{-1,0},{0,-1}};
         int x=node.first;
         int y=node.second;
 
+        if(x==m-1 && y==n-1)
+        return d; //as min heap toh top par hi hooga element
+
         for(auto dir:direc)
         {
             int x_=x+dir[0];
