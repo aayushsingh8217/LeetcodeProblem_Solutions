@@ -87,6 +87,7 @@ vector<vector<int>> direc{{1,1},{1,0},{0,1},{-1,0},{0,-1},{-1,-1},{1,-1},{-1,1}}
                 if(isValid(x_,y_) && grid[x_][y_]==0 && d+dist<res[x_][y_])
                 {
                     pq.push({d+dist,{x_,y_}});
+                    grid[x_][y_]=1;
                     res[x_][y_]=d+dist;
 
                 }
