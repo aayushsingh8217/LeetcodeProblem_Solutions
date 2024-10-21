@@ -100,6 +100,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -116,6 +117,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -182,6 +184,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
@@ -202,6 +205,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0476-number-complement) |
 ## Breadth-First Search
 |  |
@@ -231,6 +235,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -264,6 +269,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
