@@ -98,6 +98,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
@@ -206,6 +207,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0476-number-complement) |
 ## Breadth-First Search
