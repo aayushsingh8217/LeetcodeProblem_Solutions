@@ -107,6 +107,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1706-min-cost-to-connect-all-points](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
