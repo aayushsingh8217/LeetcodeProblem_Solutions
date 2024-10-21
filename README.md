@@ -102,6 +102,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
