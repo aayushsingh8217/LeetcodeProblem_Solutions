@@ -33,20 +33,25 @@ public:
        }
        sort(idx.begin(),idx.end());
        vector<int> res;
-       int low=0,high=idx.size()-1;
-       while(low<high)
+
+       int left=0;
+       int right=nums.size()-1;
+
+       while(left<right)
        {
-        if(idx[low].first+idx[high].first==target)
+        if(idx[left].first+idx[right].first==target)
         {
-            res.push_back(idx[low].second);
-            res.push_back(idx[high].second);
+            res.push_back(idx[left].second);
+            res.push_back(idx[right].second);
             return res;
         }
-        else if(idx[low].first+idx[high].first>target)
-        high--;
-        else
-        low++;
+        else if(idx[left].first+idx[right].first>target)
+        right--;
+        else 
+        left++;
+
        }
-return res;
+
+       return res;
     }
 };
