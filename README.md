@@ -96,6 +96,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -194,6 +195,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0664-strange-printer) |
 ## String
@@ -231,6 +233,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
