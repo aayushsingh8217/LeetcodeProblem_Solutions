@@ -116,6 +116,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [1706-min-cost-to-connect-all-points](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -278,6 +279,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0075-sort-colors](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -353,4 +355,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
