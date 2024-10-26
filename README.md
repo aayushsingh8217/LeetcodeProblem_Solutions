@@ -98,6 +98,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -124,6 +125,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -304,6 +306,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1753-path-with-minimum-effort) |
