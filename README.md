@@ -113,6 +113,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0283-move-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
+| [0792-binary-search](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0792-binary-search) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -259,6 +260,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0450-delete-node-in-a-bst](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0792-binary-search) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1753-path-with-minimum-effort](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1753-path-with-minimum-effort) |
