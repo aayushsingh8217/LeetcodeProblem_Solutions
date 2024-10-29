@@ -108,6 +108,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -260,6 +261,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0035-search-insert-position](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
