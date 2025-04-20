@@ -117,6 +117,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0485-max-consecutive-ones](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -138,6 +139,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0128-longest-consecutive-sequence](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
+| [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -207,6 +209,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,6 +280,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Greedy
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 ## Linked List
 |  |
