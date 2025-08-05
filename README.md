@@ -122,6 +122,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1185-find-in-mountain-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1185-find-in-mountain-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -274,6 +275,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0792-binary-search](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1185-find-in-mountain-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1185-find-in-mountain-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -386,4 +388,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
