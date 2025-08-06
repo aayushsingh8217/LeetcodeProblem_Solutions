@@ -97,6 +97,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0048-rotate-image) |
@@ -264,6 +265,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0098-validate-binary-search-tree) |
