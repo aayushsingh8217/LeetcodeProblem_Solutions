@@ -118,6 +118,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0283-move-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0733-flood-fill) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0907-koko-eating-bananas) |
@@ -274,6 +275,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0162-find-peak-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0450-delete-node-in-a-bst](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0783-search-in-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0792-binary-search) |
