@@ -95,6 +95,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -259,6 +260,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -269,6 +271,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0035-search-insert-position) |
