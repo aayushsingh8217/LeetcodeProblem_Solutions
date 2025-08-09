@@ -212,6 +212,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0048-rotate-image](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
@@ -237,6 +238,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0476-number-complement) |
 ## Breadth-First Search
@@ -401,4 +403,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1185-find-in-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
