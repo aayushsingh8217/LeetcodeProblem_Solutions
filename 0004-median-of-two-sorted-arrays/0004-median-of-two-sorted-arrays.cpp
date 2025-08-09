@@ -11,6 +11,10 @@ public:
         {
             m.push_back(nums2[i]);
         }
+        if(m.size()==0)
+        return 0;
+        if(m.size()==1)
+        return (double)m[0];
         sort(m.begin(),m.end());
         if(m.size()%2!=0)
         return (double)(m[m.size()/2]);
