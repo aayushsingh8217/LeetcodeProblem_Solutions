@@ -147,6 +147,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
 | [1207-delete-nodes-and-return-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
@@ -217,6 +218,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +328,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0169-majority-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -398,6 +401,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0169-majority-element) |
+| [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
 ## Simulation
 |  |
 | ------- |
@@ -410,4 +414,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
