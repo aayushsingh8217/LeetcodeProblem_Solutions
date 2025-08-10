@@ -224,12 +224,14 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0664-strange-printer) |
 ## String
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0257-binary-tree-paths) |
+| [0647-palindromic-substrings](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0664-strange-printer) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 ## Backtracking
@@ -320,6 +322,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0075-sort-colors](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
