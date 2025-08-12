@@ -234,6 +234,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0647-palindromic-substrings](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0664-strange-printer) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -310,6 +311,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
