@@ -221,6 +221,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -307,6 +308,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1448-maximum-69-number](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1448-maximum-69-number) |
 ## Linked List
 |  |
 | ------- |
