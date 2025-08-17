@@ -229,6 +229,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0664-strange-printer) |
@@ -236,6 +237,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0257-binary-tree-paths) |
+| [0516-longest-palindromic-subsequence](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0664-strange-printer) |
 | [1032-satisfiability-of-equality-equations](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
