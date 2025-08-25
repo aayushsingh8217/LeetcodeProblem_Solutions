@@ -274,6 +274,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -315,6 +316,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -347,6 +349,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0744-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -434,4 +437,8 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0900-reordered-power-of-2) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
