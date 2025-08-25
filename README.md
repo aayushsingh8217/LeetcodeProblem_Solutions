@@ -214,6 +214,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
@@ -315,6 +316,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -431,6 +433,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
 ## Enumeration
