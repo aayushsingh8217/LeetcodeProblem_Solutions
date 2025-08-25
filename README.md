@@ -314,6 +314,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
@@ -427,6 +428,7 @@ Save the content to a file with the extension `.md` (e.g., `README.md`) to creat
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/aayushsingh8217/LeetcodeProblem_Solutions/tree/master/0231-power-of-two) |
 ## Enumeration
 |  |
